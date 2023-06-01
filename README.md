@@ -14,6 +14,7 @@ Este es un mini proyecto, sobre la parte inicial del portfolio de una programado
 
 
 
+![Portfolio_-_Opera_2023-06-01_16-44-47_AdobeExpress](https://github.com/ManuelAbergCobo/AluraBook/assets/129859872/c0aad859-4fe3-452d-a49c-0eb37968efc9)
 
 
 
